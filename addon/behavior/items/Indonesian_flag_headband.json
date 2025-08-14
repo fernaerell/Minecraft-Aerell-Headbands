@@ -30,12 +30,10 @@
                 "repair_items": [
                     {
                         "items": [
-                            "minecraft:leather",
                             "minecraft:red_carpet",
-                            "minecraft:white_carpet",
-                            "minecraft:string"
+                            "minecraft:white_carpet"
                         ],
-                        "repair_amount": 10
+                        "repair_amount": 50
                     }
                 ]
             }
