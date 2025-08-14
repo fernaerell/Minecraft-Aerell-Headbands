@@ -1,0 +1,25 @@
+{
+    "format_version": "1.17.41",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mahb:indonesian_flag_headband"
+        },
+        "group": "headband",
+        "tags": ["crafting_table"],
+        "ingredients": [
+            "minecraft:red_carpet",
+            "minecraft:white_carpet"
+        ],
+        "unlock": [
+            {
+                "item": "minecraft:red_carpet"
+            },
+            {
+                "item": "minecraft:white_carpet"
+            }
+        ],
+        "result": {
+            "item": "mahb:indonesian_flag_headband"
+        }
+    }
+}
