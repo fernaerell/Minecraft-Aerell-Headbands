@@ -31,8 +31,9 @@
                     {
                         "items": [
                             "minecraft:leather",
-                            "minecraft:red_wool",
-                            "minecraft:white_wool"
+                            "minecraft:red_carpet",
+                            "minecraft:white_carpet",
+                            "minecraft:string"
                         ],
                         "repair_amount": 10
                     }
