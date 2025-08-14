@@ -2,8 +2,8 @@
     "resource_pack_name": "§lAerell Headbands",
     "texture_name": "atlas.items",
     "texture_data": {
-        "mahb:Indonesian_flag_headband": {
-            "textures": "textures/items/Indonesian_flag_headband.png"
+        "mahb:indonesian_flag_headband": {
+            "textures": "textures/items/indonesian_flag_headband.png"
         }
     }
 }
