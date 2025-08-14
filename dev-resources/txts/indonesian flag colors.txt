@@ -1,0 +1,8 @@
+red:
+#FF0000
+#C8102E
+#E11B22
+
+white:
+#FFFFFF
+#F2F2F2
